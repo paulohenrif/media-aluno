@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}
+
+input {
+    display: block;
+    margin: auto;
+    padding: 10px 50px;
+}
+
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
